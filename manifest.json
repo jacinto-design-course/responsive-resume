@@ -3,12 +3,12 @@
   "name": "Jacinto Design Resume",
   "icons": [
     {
-      "src": "/img/android-chrome-192x192.png",
+      "src": "https://jacinto-design-course.github.io/responsive-resume/img/android-chrome-192x192.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "/img/android-chrome-512x512.png",
+      "src": "https://jacinto-design-course.github.io/responsive-resume/img/android-chrome-512x512.png",
       "type": "image/png",
       "sizes": "512x512"
     }
